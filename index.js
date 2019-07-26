@@ -29,4 +29,4 @@ function makeInt(n) {
 
 console.log(inc(100));
 console.log(dec(100));
-console.log(makeInt('34 Hello World'));
+console.log(makeInt('Hello World 34'));

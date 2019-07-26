@@ -23,4 +23,4 @@ function dec(n) {
   return --n;
 }
 
-console.log(inc(71));
+console.log(inc(100));

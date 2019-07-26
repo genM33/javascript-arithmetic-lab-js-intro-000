@@ -21,3 +21,5 @@ function inc(n) {
 function dec(n) {
   return n--;
 }
+
+console.log(inc(23));

@@ -34,4 +34,4 @@ function preserveDecimal(n) {
 console.log(inc(100));
 console.log(dec(100));
 console.log(makeInt('78.987 Hello World'));
-console.log(preserveDecimal('   78.987Hello World '));
+console.log(preserveDecimal('   12.5678Hello World '));

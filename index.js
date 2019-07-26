@@ -23,5 +23,10 @@ function dec(n) {
   return --n;
 }
 
+function makeInt(n) {
+  return parseInt(n, 10);
+}
+
 console.log(inc(100));
+console.log(dec(100));
 console.log(dec(100));

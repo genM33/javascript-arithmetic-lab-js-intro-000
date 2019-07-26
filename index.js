@@ -24,3 +24,4 @@ function dec(n) {
 }
 
 console.log(inc(100));
+console.log(dec(100));

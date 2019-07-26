@@ -15,11 +15,12 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return n += 1;
+  n++;
+  return n;
 }
 
 function dec(n) {
   return n--;
 }
 
-console.log(inc(23));
+console.log(inc(71));
